@@ -1,0 +1,17 @@
+* {
+  background-color: whitesmoke;
+}
+.App {
+  position: absolute;
+  text-align: center;
+}
+.container {
+  display: flex;
+  margin-left: 30%;
+  margin-top: 10%;
+  border: 1px solid black;
+  width: 350px;
+  height: 500px;
+  background-color: black;
+  color: white;
+}

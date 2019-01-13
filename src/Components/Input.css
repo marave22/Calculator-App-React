@@ -1,0 +1,8 @@
+.number_input {
+    font-size: 36px;
+    text-align: right;
+    padding-right: 10px;
+    color: whitesmoke;
+    background-color: black;
+    overflow: hidden;
+}

@@ -1,0 +1,50 @@
+.buttons-container {
+    height: 450px;
+    padding-top: 52px;
+    background-color: black;
+    overflow: hidden;
+    position: relative;
+}
+.button {
+    display: flex;
+}
+button.btn {
+    width: 87.5px;
+    height: 80px;
+    font-size: 24px;
+    border: 1px solid #284141;
+}
+button.btn-zero {
+    width: 175px;
+    height: 80px;
+    font-size: 24px;
+    border: 1px solid #284141;
+    color: #284141;
+}
+.btn-operation {
+    background-color: #a9000a;
+    border: 1px solid #284141;
+    color: #fafae6;
+}
+
+.btn-calculate {
+    background-color: #9c9c9c;
+}
+
+.btn-number {
+    color: #284141;
+}
+
+.btn-calculate:hover {
+    background-color: lightgray;
+}
+
+.btn-operation:hover {
+    background-color: #c0000a;
+}
+.btn-number:hover {
+    background-color: whitesmoke;
+}
+.btn-zero:hover {
+    background-color: whitesmoke;
+}
